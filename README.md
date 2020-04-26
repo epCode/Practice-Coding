@@ -1,3 +1,4 @@
 # Practice-Coding
 
-Practice scripts and code
+
+My codes and scripts for practice.
